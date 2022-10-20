@@ -13,6 +13,7 @@
 		AE5D87652810221E00FE09B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE5D87632810221E00FE09B3 /* Main.storyboard */; };
 		AE5D87672810222000FE09B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE5D87662810222000FE09B3 /* Assets.xcassets */; };
 		AE5D876A2810222000FE09B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE5D87682810222000FE09B3 /* LaunchScreen.storyboard */; };
+		AE6390822822984E007EE3BD /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6390812822984E007EE3BD /* MyButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AE5D87662810222000FE09B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE5D87692810222000FE09B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE5D876B2810222000FE09B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE6390812822984E007EE3BD /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,8 +62,9 @@
 				AE5D875F2810221E00FE09B3 /* SceneDelegate.swift */,
 				AE5D87612810221E00FE09B3 /* ViewController.swift */,
 				AE5D87632810221E00FE09B3 /* Main.storyboard */,
-				AE5D87662810222000FE09B3 /* Assets.xcassets */,
+				AE6390812822984E007EE3BD /* MyButton.swift */,
 				AE5D87682810222000FE09B3 /* LaunchScreen.storyboard */,
+				AE5D87662810222000FE09B3 /* Assets.xcassets */,
 				AE5D876B2810222000FE09B3 /* Info.plist */,
 			);
 			path = penya;
@@ -141,6 +144,7 @@
 				AE5D87622810221E00FE09B3 /* ViewController.swift in Sources */,
 				AE5D875E2810221E00FE09B3 /* AppDelegate.swift in Sources */,
 				AE5D87602810221E00FE09B3 /* SceneDelegate.swift in Sources */,
+				AE6390822822984E007EE3BD /* MyButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
